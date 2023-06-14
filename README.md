@@ -96,9 +96,9 @@ Part 2: (Observe ICMP Traffic)
 <p>
 8. Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
 
--From The Windows 10 VM, open PowerShell and attempt to ping Ubuntu VM
+- From The Windows 10 VM, open PowerShell and attempt to ping Ubuntu VM
   
--Observe ping requests and replies within WireShark
+- Observe ping requests and replies within WireShark
 </p>
 <p>
 <img src="https://i.imgur.com/pZEwa1p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
