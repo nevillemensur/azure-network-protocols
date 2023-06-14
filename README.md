@@ -119,7 +119,7 @@ Part 2: (Observe ICMP Traffic)
 <p>
 10. Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
   
-  -Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic
+- Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic
 </p>
 
 <p>
@@ -132,7 +132,7 @@ Part 2: (Observe ICMP Traffic)
 <br />
 
 <p>
-B. Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity
+- Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity
 </p>
 <p>
 <img src="https://i.imgur.com/hve1L00.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
