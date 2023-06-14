@@ -30,6 +30,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
+  Part 1: Create our resources.
+  
 1. Create a resource group.
 </p>
 <p>
@@ -64,10 +66,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Part 2: (Observe ICMP Traffic)
+  
+  5. Use Remote Desktop to connect to your Windows 10 Virtual Machine
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/FwR1gir.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mufpOiW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
