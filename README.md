@@ -94,10 +94,16 @@ Part 2: (Observe ICMP Traffic)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+8. Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
+
+-From The Windows 10 VM, open PowerShell and attempt to ping Ubuntu VM
+  
+-Observe ping requests and replies within WireShark
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/pZEwa1p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QeFzUYk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RWFC15u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
