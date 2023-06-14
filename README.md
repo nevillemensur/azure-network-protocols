@@ -133,7 +133,9 @@ Part 2: (Observe ICMP Traffic)
 
 <p>
 - Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity
+  
 </p>
+
 <p>
 <img src="https://i.imgur.com/hve1L00.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
