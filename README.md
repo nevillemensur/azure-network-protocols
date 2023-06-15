@@ -227,6 +227,11 @@ Part 2: (Observe ICMP Traffic)
 
 <p>
 17. Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)
+
+  - Observe the immediate non-stop spam of traffic? Why do you think it’s non-stop spamming vs only showing traffic when you do an activity?
+ 
+- Answer: Its because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefor traffic is always being transmitted
+
 </p>
 
 <p>
