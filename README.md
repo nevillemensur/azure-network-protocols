@@ -137,7 +137,7 @@ Part 2: (Observe ICMP Traffic)
 </p>
 
 <p>
-<img src="https://i.imgur.com/hve1L00.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gGXwYPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -146,7 +146,7 @@ Part 2: (Observe ICMP Traffic)
 
 </p>
 <p>
-<img src="https://i.imgur.com/1upP7f1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f3EtAEp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
