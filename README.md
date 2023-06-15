@@ -68,7 +68,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 Part 2: (Observe ICMP Traffic)
   
-  5. Use Remote Desktop to connect to your Windows 10 Virtual Machine
+  4. Use Remote Desktop to connect to your Windows 10 Virtual Machine
 </p>
 <p>
 <img src="https://i.imgur.com/FwR1gir.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -77,7 +77,7 @@ Part 2: (Observe ICMP Traffic)
 <br />
 
 <p>
-6. Within your Windows 10 Virtual Machine, Install Wireshark
+5. Within your Windows 10 Virtual Machine, Install Wireshark
 </p>
 <p>
 <img src="https://i.imgur.com/Hzm5izC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -86,7 +86,7 @@ Part 2: (Observe ICMP Traffic)
 <br />
 
 <p>
-7. Open Wireshark and filter for ICMP traffic only
+6. Open Wireshark and filter for ICMP traffic only
 </p>
 <p>
 <img src="https://i.imgur.com/TuDNBc5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -94,7 +94,7 @@ Part 2: (Observe ICMP Traffic)
 <br />
 
 <p>
-8. Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
+7. Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
 
 - From The Windows 10 VM, open PowerShell and attempt to ping Ubuntu VM
   
@@ -108,7 +108,7 @@ Part 2: (Observe ICMP Traffic)
 <br />
 
 <p>
-9. From The Windows 10 VM, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark
+8. From The Windows 10 VM, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark
 </p>
 
 <p>
@@ -117,7 +117,7 @@ Part 2: (Observe ICMP Traffic)
 <br />
 
 <p>
-10. Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
+9. Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
   
 - Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic
 </p>
